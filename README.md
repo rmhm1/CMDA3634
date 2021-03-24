@@ -10,5 +10,5 @@ int mx and int my: the number of standing wave nodes in their respective dimensi
 ### Example
 The following commands will be an example of a simulation for a standing wave on a squre grid of space over time, with the end point being 5 seconds, and the grid being 10x10:
 
-Make main1
+Make main1\
 .main1/ 5 10 2 3 1.0
